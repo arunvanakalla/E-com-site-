@@ -1,10 +1,3 @@
-I can help draft a polished and professional **README** for your “E-Commerce Backend API” project on GitHub. I wasn't able to view the full repository structure or existing README (possibly due to access or rendering limits), but based on the project description you shared earlier, here’s a clean, organized template you can use:
-
----
-
-## `README.md`
-
-````markdown
 # E-Commerce Backend API
 
 A RESTful backend service for managing products in an e-commerce setting, built with Spring Boot.
